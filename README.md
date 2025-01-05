@@ -36,3 +36,4 @@ https://www.kaggle.com/code/danielprazeres/projeto-final-ebac
 1. Clone o repositório:
    ```bash
    git clone https://github.com/danielprazeres/projeto_final_python_ebac.git
+   ```
